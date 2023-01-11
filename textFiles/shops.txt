@@ -1,0 +1,3 @@
+shop1: Macdonalds
+shop2:nike
+shop3:apple

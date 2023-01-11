@@ -1,0 +1,26 @@
+[
+    {
+    "id":"1",
+    "name":"daniel" ,
+    "notSteve": "true",
+    "phone":"3223"
+
+},
+
+{
+    "id":"2",
+    "name":"Steve" ,
+    "notSteve": "false",
+    "phone":"43543"
+
+},
+
+{
+    "id":"3",
+    "name":"Amit" ,
+    "notSteve": "true",
+    "phone":"4535345"
+
+}
+]
+
